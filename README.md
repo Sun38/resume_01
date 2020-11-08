@@ -2,6 +2,7 @@
 ## 소개
 ----------------------------
 
+![Profile](image.jpg)
 
 - 이름 : 선민구
 
@@ -310,5 +311,9 @@ sys.exit()
 - Unity Engine 게임 만들기
     + 소개 : Unity Engine을 활용하여 간단한 농구 게임 만들기
     + 관련기술 : C#, Unity Engine 활용 능력
-    ![Unity_image](image2.PNG)
+
+![Unity_image](image2.PNG)
+
+- 해외 경험
+
 
