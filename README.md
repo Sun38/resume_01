@@ -1,7 +1,7 @@
 # 이력서 (RESUME)
 ## 소개
 ----------------------------
-![profile_image](image.jpg)
+![profile_image](image.jpg=100x20)
 
 - 이름 : 선민구
 
