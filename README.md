@@ -2,7 +2,7 @@
 ## 소개
 ----------------------------
 
-<img src="image.jpg" alt="drawing" width="200"/>
+<img src="image.jpg" alt="drawing" width="300"/>
 
 - 이름 : 선민구
 
